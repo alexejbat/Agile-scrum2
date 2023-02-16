@@ -4,7 +4,7 @@
 
 Интернет-магазин по продаже рыбной продукции
 
-https://rybakpovolxhya.ru
+https://rybakpovolzhya.ru
 
 # Учебный проект:
 
